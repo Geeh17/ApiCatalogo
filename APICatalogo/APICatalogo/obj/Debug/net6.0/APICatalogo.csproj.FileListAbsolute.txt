@@ -25,3 +25,11 @@ C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\obj\De
 C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.pdb
 C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.genruntimeconfig.cache
 C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\ref\APICatalogo.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
