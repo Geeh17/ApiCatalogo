@@ -29,55 +29,55 @@ namespace APICatalogo.Controllers
         [HttpGet("{id:int}", Name = "ObterProduto")]
         public ActionResult<Produto> Get(int id)
         {
-            var produto = _context.Produtos.FirstOrDefault(p => p.ProdutoID == id);
-            if (produto is null)
+            var produtos = _context.Produtos.FirstOrDefault(p => p.ProdutoID == id);
+            if (produtos is null)
             {
                 return NotFound("Produto não encontrado...");
             }
-            return produto;
+            return produtos;
         }
 
         [HttpPost]
-        public ActionResult Post(Produto produto)
+        public ActionResult Post(Produto produtos)
         {
-            if (produto is null)
+            if (produtos is null)
                 return BadRequest();
 
-            _context.Produtos.Add(produto);
+            _context.Produtos.Add(produtos);
             _context.SaveChanges();
 
             return new CreatedAtRouteResult("ObterProduto",
-                new { id = produto.ProdutoID }, produto);
+                new { id = produtos.ProdutoID }, produtos);
         }
 
         [HttpPut("{id:int}")]
-        public ActionResult Put(int id, Produto produto)
+        public ActionResult Put(int id, Produto produtos)
         {
-            if (id != produto.ProdutoID)
+            if (id != produtos.ProdutoID)
             {
                 return BadRequest();
             }
 
-            _context.Entry(produto).State = EntityState.Modified;
+            _context.Entry(produtos).State = EntityState.Modified;
             _context.SaveChanges();
 
-            return Ok(produto);
+            return Ok(produtos);
         }
 
         [HttpDelete("{id:int}")]
         public ActionResult Delete(int id)
         {
-            var produto = _context.Produtos.FirstOrDefault(p => p.ProdutoID == id);
+            var produtos = _context.Produtos.FirstOrDefault(p => p.ProdutoID == id);
             //var produto = _context.Produtos.Find(id);
 
-            if (produto is null)
+            if (produtos is null)
             {
                 return NotFound("Produto não localizado...");
             }
-            _context.Produtos.Remove(produto);
+            _context.Produtos.Remove(produtos);
             _context.SaveChanges();
 
-            return Ok(produto);
+            return Ok(produtos);
         }
     }
 }
