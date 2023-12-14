@@ -33,3 +33,13 @@ C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\De
 C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\Geeêh Luis\Desktop\Projetos\ApiCatalogo\APICatalogo\APICatalogo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.AssemblyInfoInputs.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.AssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.csproj.CoreCompileInputs.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\refint\APICatalogo.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net6.0\APICatalogo.pdb
